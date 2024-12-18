@@ -158,3 +158,4 @@ C:\Users\Tuan\RiderProjects\BaiTapNho\BaiTapNho\obj\Debug\net8.0\refint\BaiTapNh
 C:\Users\Tuan\RiderProjects\BaiTapNho\BaiTapNho\obj\Debug\net8.0\BaiTapNho.pdb
 C:\Users\Tuan\RiderProjects\BaiTapNho\BaiTapNho\obj\Debug\net8.0\BaiTapNho.genruntimeconfig.cache
 C:\Users\Tuan\RiderProjects\BaiTapNho\BaiTapNho\obj\Debug\net8.0\ref\BaiTapNho.dll
+C:\Users\Tuan\RiderProjects\BaiTapNho\BaiTapNho\bin\Debug\net8.0\Bogus.dll
