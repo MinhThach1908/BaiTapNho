@@ -36,7 +36,7 @@ public class BaiTapNhoDbContext : DbContext
     {
         optionsBuilder
             .UseLazyLoadingProxies()
-            .UseSqlite("ChuoiKetNoiSqlite");
+            .UseSqlite("Data Source=mydatabase.db");
     }
     
     public DbSet<User> Users { get; set; }

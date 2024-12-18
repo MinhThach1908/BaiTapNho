@@ -1,5 +1,6 @@
 using BaiTapNho.Data;
 using BaiTapNho.Models;
+using Bogus;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BaiTapNho.Controllers;

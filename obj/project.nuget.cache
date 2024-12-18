@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d4ak7O15E0Y=",
+  "dgSpecHash": "j6/MYLf5DOYJgvHtWxNSklYLqt/GPtV1AHHC2+r/2GPbDHoq3Hysw3nE8ff337OxGPzr/y5GxdAQYHK1YgFf5A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tuan\\RiderProjects\\BaiTapNho\\BaiTapNho\\BaiTapNho.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tuan\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
     "C:\\Users\\Tuan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Tuan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Tuan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
